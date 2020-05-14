@@ -1,5 +1,5 @@
 # Project---SQL-Queries-EMPLOYEES-database-
-Some sample queries run on public employees database 
+Some sample queries run on mySQL sample employees database 
 
 Query 1: A basic SQL query 
 
