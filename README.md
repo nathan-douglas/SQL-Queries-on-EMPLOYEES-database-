@@ -1,4 +1,8 @@
 # Project---SQL-Queries-EMPLOYEES-database-
+
+Project Link:
+https://nathandouglas98.wixsite.com/website/post/sql-tableau-visualising-queries-from-employees-database
+
 Some sample queries run on mySQL sample employees database 
 
 Query 1: A basic SQL query 
